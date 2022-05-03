@@ -45,3 +45,7 @@
     background-color: rgb(255, 255, 255);
     background-size: contain;
 }
+
+#border {
+  border-radius: 5px 10px 15px 20px;
+}
